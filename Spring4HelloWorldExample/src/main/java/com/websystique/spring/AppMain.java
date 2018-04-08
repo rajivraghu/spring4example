@@ -17,6 +17,7 @@ public class AppMain {
 		System.out.println(cust2.hashCode());
 		cust.displayCustomerName();
 		//Hello from git
+		// This is automatically sync
 	/*	HelloWorld bean = (HelloWorld) context.getBean("helloWorldBean");
 		bean.sayHello("Spring 4");*/
 		//context.close();
