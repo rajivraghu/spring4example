@@ -21,6 +21,8 @@ public class AppMain {
 	/*	HelloWorld bean = (HelloWorld) context.getBean("helloWorldBean");
 		bean.sayHello("Spring 4");*/
 		//context.close();
+		
+		//local push
 
 	}
 
