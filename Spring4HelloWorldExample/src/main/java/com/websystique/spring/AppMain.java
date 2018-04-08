@@ -16,6 +16,7 @@ public class AppMain {
 		Customer cust2 = (Customer)context.getBean("customerImpl");
 		System.out.println(cust2.hashCode());
 		cust.displayCustomerName();
+		//Hello from git
 	/*	HelloWorld bean = (HelloWorld) context.getBean("helloWorldBean");
 		bean.sayHello("Spring 4");*/
 		//context.close();
